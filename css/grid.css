@@ -36,7 +36,7 @@
 
   .unit-m-1-2,
   .m-1-2 {
-    width: 50%
+    width: 50%;
   }
 
   .unit-m-1-2,
@@ -48,4 +48,5 @@
     display: inline-block;
     visibility: visible;
   }
+
 }
